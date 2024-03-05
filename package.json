@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "selfsigned": "^2.4.1"
+  },
+  "name": "o2b2-client-data-personal-business-data",
+  "description": "API de Dados Cadastrias para Dados de Clientes (Fase2) do Open Finance Brasil",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Ranieri Mazili",
+  "license": "MIT",
+  "type": "module"
+}
